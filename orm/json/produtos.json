@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nome": "Manga Palmer",
+    "descricao": "Manga suculenta e doce, ideal para sucos e sobremesas.",
+    "preco": 5.99,
+    "estoque": 150,
+    "fornecedor_id": 1
+  },
+  {
+    "id": 2,
+    "nome": "Abacaxi Pérola",
+    "descricao": "Abacaxi fresco e tropical, perfeito para saladas e grelhados.",
+    "preco": 6.49,
+    "estoque": 120,
+    "fornecedor_id": 2
+  },
+  {
+    "id": 3,
+    "nome": "Pera D'água",
+    "descricao": "Pera crocante e doce, excelente para consumo in natura.",
+    "preco": 4.29,
+    "estoque": 200,
+    "fornecedor_id": 3
+  },
+  {
+    "id": 4,
+    "nome": "Maçã Gala",
+    "descricao": "Maçã crocante com sabor adocicado, ótima para lanches.",
+    "preco": 3.89,
+    "estoque": 180,
+    "fornecedor_id": 4
+  },
+  {
+    "id": 5,
+    "nome": "Laranja Lima",
+    "descricao": "Laranja doce e suculenta, ideal para sucos naturais.",
+    "preco": 4.59,
+    "estoque": 250,
+    "fornecedor_id": 1
+  },
+  {
+    "id": 6,
+    "nome": "Kiwi Verde",
+    "descricao": "Kiwi com sabor ácido e doce, bom para sobremesas e saladas.",
+    "preco": 7.99,
+    "estoque": 80,
+    "fornecedor_id": 2
+  },
+  {
+    "id": 7,
+    "nome": "Uva Isabel",
+    "descricao": "Uvas roxas e doces, ótimas para consumo direto e sucos.",
+    "preco": 6.79,
+    "estoque": 140,
+    "fornecedor_id": 3
+  },
+  {
+    "id": 8,
+    "nome": "Banana Nanica",
+    "descricao": "Banana doce e macia, ideal para café da manhã e bolos.",
+    "preco": 2.99,
+    "estoque": 300,
+    "fornecedor_id": 4
+  },
+  {
+    "id": 9,
+    "nome": "Melancia Baby",
+    "descricao": "Melancia pequena e doce, perfeita para dias quentes.",
+    "preco": 8.49,
+    "estoque": 100,
+    "fornecedor_id": 1
+  },
+  {
+    "id": 10,
+    "nome": "Morangos Silvestres",
+    "descricao": "Morangos frescos e aromáticos, ideais para sobremesas e saladas.",
+    "preco": 9.99,
+    "estoque": 90,
+    "fornecedor_id": 2
+  },
+  {
+    "id": 11,
+    "nome": "Cabeludinha",
+    "descricao": "Fruta exótica e doce, boa para compotas e geléias.",
+    "preco": 12.49,
+    "estoque": 60,
+    "fornecedor_id": 3
+  },
+  {
+    "id": 12,
+    "nome": "Tangerina Ponkan",
+    "descricao": "Tangerina suculenta e fácil de descascar, ideal para lanches.",
+    "preco": 5.29,
+    "estoque": 160,
+    "fornecedor_id": 4
+  },
+  {
+    "id": 13,
+    "nome": "Pêssego Aveludado",
+    "descricao": "Pêssego macio e doce, excelente para sobremesas e conservas.",
+    "preco": 7.19,
+    "estoque": 130,
+    "fornecedor_id": 1
+  },
+  {
+    "id": 14,
+    "nome": "Coco Verde",
+    "descricao": "Coco fresco e hidratante, ótimo para bebidas e receitas.",
+    "preco": 4.89,
+    "estoque": 110,
+    "fornecedor_id": 2
+  },
+  {
+    "id": 15,
+    "nome": "Goiaba Paluma",
+    "descricao": "Goiaba doce e rica em vitamina C, boa para sucos e sobremesas.",
+    "preco": 5.99,
+    "estoque": 140,
+    "fornecedor_id": 3
+  },
+  {
+    "id": 16,
+    "nome": "Framboesa",
+    "descricao": "Framboesas frescas e delicadas, ideais para compotas e doces.",
+    "preco": 15.49,
+    "estoque": 70,
+    "fornecedor_id": 4
+  },
+  {
+    "id": 17,
+    "nome": "Jabuticaba",
+    "descricao": "Fruta pequena e doce, ótima para vinhos e doces.",
+    "preco": 13.99,
+    "estoque": 50,
+    "fornecedor_id": 1
+  },
+  {
+    "id": 18,
+    "nome": "Caqui Fuyu",
+    "descricao": "Caqui doce e crocante, ideal para consumo in natura e saladas.",
+    "preco": 6.89,
+    "estoque": 90,
+    "fornecedor_id": 2
+  },
+  {
+    "id": 19,
+    "nome": "Açaí Congelado",
+    "descricao": "Açaí puro e congelado, ideal para smoothies e tigelas.",
+    "preco": 14.99,
+    "estoque": 80,
+    "fornecedor_id": 3
+  },
+  {
+    "id": 20,
+    "nome": "Cabeludinha",
+    "descricao": "Fruta exótica e doce, boa para compotas e geléias.",
+    "preco": 12.49,
+    "estoque": 60,
+    "fornecedor_id": 4
+  }
+]

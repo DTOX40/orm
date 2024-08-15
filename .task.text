@@ -1,0 +1,26 @@
+Projeto meta programação com ruby usando metodos de classe e de instancias classe eval define_metodo
+consicionais hash funções e claro meta programação.
+
+ORM = "Em resumo, um ORM facilita o trabalho com bancos de dados em Ruby, permitindo que você manipule dados usando código Ruby em vez de SQL."
+
+criar um mini ORM() 
+criar um tipo de include na qual fazemos leitura de dados do disco
+para poder criar uma classe com propriedades lendo de arquivos JSON
+
+criar estrutura de pastas do ORM
+
+pasta principal orm dentro dessa pasta criar json, lib, models
+dentro de lib um arquivo json_orm.rb e na raiz criar o init.rbgit
+
+crie um Gemfile 
+source 'https://rubygems.org'
+
+ruby '3.2.2'
+
+gem 'byebug'
+
+criar um .rvmrc setando a versão do ruby 3.2.2 e de um reload rvm reload
+rvm use 3.2.2 
+
+pronto para iniciar o projeto
+
