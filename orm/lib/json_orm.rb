@@ -1,8 +1,9 @@
+# Verifique se 'json' é carregado no início do arquivo
 require 'json'
 require 'byebug'
 
 module JsonOrm
-  def self.include(base)
+  def self.included(base)
     base.extend(EstruturaDados)
   end
 
@@ -23,8 +24,7 @@ module JsonOrm
           dados = JSON.parse(arquivo_json)
           # Exibe os dados
           debugger
-          puts dados.first.keys.inspect
-
+          atributos = dados.first.keys
         rescue JSON::ParserError
           puts "Erro ao analisar o JSON! O arquivo pode estar corrompido."
         end

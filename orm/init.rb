@@ -1,5 +1,5 @@
 require_relative './models/produto'
 
-p - Produto.new
+p = Produto.new
 
 puts p.methods - Class.methods
